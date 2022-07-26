@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Bdp-Narola
-- 👀 I’m interested in @
-- 🌱 I’m currently learning @
-- 💞️ I’m looking to collaborate on @
-- 📫 How to reach me @
-
-<!---
-Bdp-Narola/Bdp-Narola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/bdp_narola7"><img src="https://api.daily.dev/devcards/277d13f2cad540608e231d35183d16a8.png?r=7v6" width="400" alt="Bdp Narola's Dev Card"/></a>
